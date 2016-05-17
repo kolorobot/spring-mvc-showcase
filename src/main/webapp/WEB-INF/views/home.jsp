@@ -2,6 +2,7 @@
 <%@ page session="false" %>
 <html>
 <head>
+	<meta charset="utf-8"/>
 	<title>spring-mvc-showcase</title>
 	<link href="<c:url value="/resources/form.css" />" rel="stylesheet"  type="text/css" />		
 	<link href="<c:url value="/resources/jqueryui/1.8/themes/base/jquery.ui.all.css" />" rel="stylesheet" type="text/css"/>
